@@ -20,6 +20,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Bitcoin Magazine Podcast](https://letstalkbitcoin.com/blog/category/bitcoinmagazine)
 * [Blockchain Innovation](https://blockchain.global/blockchain-innovation/)
 * [Blockchain Insider](https://bi.11fs.com/)
+* [Blockhash Podcast](https://www.blockhashpodcast.com/podcast)
 * [Crypto 101](https://crypto101podcast.com/)
 * [Crypto and Blockchain Talk](http://cryptoandblockchaintalk.com/)
 * [Crypto Bobby](https://cryptobobby.com/)
@@ -29,11 +30,13 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Epicenter](https://epicenter.tv/)
 * [Grey Mirror](https://dci.mit.edu/greymirrorpodcast)
 * [Humans of Bitcoin](https://podcast.bitcoin.com/s3-Humans-of-Bitcoin)
+* [Into the Ether](https://www.podbean.com/podcast-detail/mwb85-7c997/Into-the-Ether-Podcast)
 * [Ledger Status](https://ledgerstatus.com/topic/ledgercast/)
 * [Let's Talk Bitcoin!](https://letstalkbitcoin.com/blog/category/episodes)
 * [Life in the Fast Chain](https://life-in-the-fast-chain.fireside.fm/)
 * [Noded Bitcoin Podcast](https://noded.org/)
 * [Off the Chain](https://blockworksgroup.io/off-the-chain-podcast)
+* [POV Crypto Podcast](https://povcryptopod.libsyn.com/)
 * [Proof of Love](https://letstalkbitcoin.com/blog/category/proofoflove)
 * [Road to Consensus](https://www.coindesk.com/podcasts)
 * [SAFE Crossroads](https://letstalkbitcoin.com/blog/category/safepodcast)
@@ -52,7 +55,10 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Unchained](https://unchainedpodcast.com/category/unchained/)
 * [Unconfirmed](https://unchainedpodcast.com/category/unconfirmed/)
 * [What Bitcoin Did](https://www.whatbitcoindid.com/)
+* [Wizard of Dapps](https://wizardofdapps.fm/)
 * [World Crypto Network](https://www.worldcryptonetwork.com/) ([audio feed](https://www.spreaker.com/show/3478703/episodes/feed))
+* [Wyre Talks](https://wyre-talks.simplecast.com/)
+* [Zero Knowledge](https://www.zeroknowledge.fm/)
 
 
 ## Russian
@@ -64,6 +70,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 ## German
 
 * [Honigdachs](https://coinspondent.de/honigdachs-der-bitcoin-podcast-aus-leipzig/)
+* [Kryptohelden](https://kryptohelden.de/)
 
 
 # Contribution guidelines
