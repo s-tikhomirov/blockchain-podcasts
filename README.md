@@ -28,6 +28,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Decrypt Asia](https://decrypt.asia/)
 * [Distributed Dialogues](https://letstalkbitcoin.com/blog/category/distributed-dialogues)
 * [Epicenter](https://epicenter.tv/)
+* [Flippening Podcast](https://blog.nomics.com/flippening/)
 * [Grey Mirror](https://dci.mit.edu/greymirrorpodcast)
 * [Humans of Bitcoin](https://podcast.bitcoin.com/s3-Humans-of-Bitcoin)
 * [Into the Ether](https://www.podbean.com/podcast-detail/mwb85-7c997/Into-the-Ether-Podcast)
@@ -52,6 +53,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [The Krypto Show](https://julianhosp.com/kryptoshow-podcast/)
 * [The Lite Podcast](https://thelitepodcast.libsyn.com/)
 * [The Tatiana Show](https://letstalkbitcoin.com/blog/category/tatianaepisodes)
+* [The Third Web](https://thethirdweb.net/)
 * [Unchained](https://unchainedpodcast.com/category/unchained/)
 * [Unconfirmed](https://unchainedpodcast.com/category/unconfirmed/)
 * [What Bitcoin Did](https://www.whatbitcoindid.com/)
@@ -59,7 +61,6 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [World Crypto Network](https://www.worldcryptonetwork.com/) ([audio feed](https://www.spreaker.com/show/3478703/episodes/feed))
 * [Wyre Talks](https://wyre-talks.simplecast.com/)
 * [Zero Knowledge](https://www.zeroknowledge.fm/)
-
 
 ## Russian
 
