@@ -24,6 +24,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Crypto 101](https://crypto101podcast.com/)
 * [Crypto and Blockchain Talk](http://cryptoandblockchaintalk.com/)
 * [Crypto Bobby](https://cryptobobby.com/)
+* [Crypto Voices](https://cryptovoices.com/)
 * [Decentralize This!](https://blog.enigma.co/podcast/home)
 * [Decrypt Asia](https://decrypt.asia/)
 * [Distributed Dialogues](https://letstalkbitcoin.com/blog/category/distributed-dialogues)
