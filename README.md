@@ -67,6 +67,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 ## Russian
 
 * [Базовый Блок](https://basicblockradio.com/)
+* [Радио Forklog](https://soundcloud.com/forklog)
 * [Satoshi.fm](https://satoshi.fm/)
 
 
