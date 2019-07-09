@@ -16,7 +16,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 ## English
 
 * [Analysis in Chains](https://www.analysisinchainspodcast.com/)
-* [Bitcoin & Co](https://bitcoincopodcast.com/)
+* [Bitcoin & Co](https://bitcoincopodcast.com/) (some episodes in German)
 * [Bitcoin Magazine Podcast](https://letstalkbitcoin.com/blog/category/bitcoinmagazine)
 * [Blockchain Innovation](https://blockchain.global/blockchain-innovation/)
 * [Blockchain Insider](https://bi.11fs.com/)
@@ -73,6 +73,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 
 ## German
 
+* [Bitcoin & Co](https://bitcoincopodcast.com/) (some episodes in English)
 * [Honigdachs](https://coinspondent.de/honigdachs-der-bitcoin-podcast-aus-leipzig/)
 * [Kryptohelden](https://kryptohelden.de/)
 
