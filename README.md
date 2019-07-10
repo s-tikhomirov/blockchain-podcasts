@@ -29,6 +29,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Decrypt Asia](https://decrypt.asia/)
 * [Distributed Dialogues](https://letstalkbitcoin.com/blog/category/distributed-dialogues)
 * [Epicenter](https://epicenter.tv/)
+* [Ethereum Community Series](https://www.ethcs.org/)
 * [Flippening Podcast](https://blog.nomics.com/flippening/)
 * [Grey Mirror](https://dci.mit.edu/greymirrorpodcast)
 * [Humans of Bitcoin](https://podcast.bitcoin.com/s3-Humans-of-Bitcoin)
