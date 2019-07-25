@@ -16,6 +16,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 ## English
 
 * [Analysis in Chains](https://www.analysisinchainspodcast.com/)
+* [Binance Podcast](https://castbox.fm/channel/id2163161)
 * [Bitcoin & Co](https://bitcoincopodcast.com/) (some episodes in German)
 * [Bitcoin Magazine Podcast](https://letstalkbitcoin.com/blog/category/bitcoinmagazine)
 * [Block Zero](https://blockzero.simplecast.com/)
