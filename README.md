@@ -23,6 +23,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Blockchain Innovation](https://blockchain.global/blockchain-innovation/)
 * [Blockchain Insider](https://bi.11fs.com/)
 * [Blockhash Podcast](https://www.blockhashpodcast.com/podcast)
+* [Chorus One](https://chorusone.libsyn.com/)
 * [Crypto 101](https://crypto101podcast.com/)
 * [Crypto and Blockchain Talk](http://cryptoandblockchaintalk.com/)
 * [Crypto Bobby](https://cryptobobby.com/)
