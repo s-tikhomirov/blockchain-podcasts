@@ -32,6 +32,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Decentralize This!](https://blog.enigma.co/podcast/home)
 * [Decrypt Asia](https://decrypt.asia/)
 * [Distributed Dialogues](https://letstalkbitcoin.com/blog/category/distributed-dialogues)
+* [Do Your Own Research Podcast](https://dyorpodcast.com/)
 * [Epicenter](https://epicenter.tv/)
 * [Ethereum Community Series](https://www.ethcs.org/)
 * [Flippening Podcast](https://blog.nomics.com/flippening/)
