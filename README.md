@@ -20,6 +20,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Bitcoin & Co](https://bitcoincopodcast.com/) (some episodes in German)
 * [Bitcoin & Grill](https://cryptoandgrill.podbean.com)
 * [Bitcoin Magazine Podcast](https://letstalkbitcoin.com/blog/category/bitcoinmagazine)
+* [Bitcoin Radio](https://www.bitcoinradio.com)
 * [Block Zero](https://blockzero.simplecast.com/)
 * [Blockchain Innovation](https://blockchain.global/blockchain-innovation/)
 * [Blockchain Insider](https://bi.11fs.com/)
