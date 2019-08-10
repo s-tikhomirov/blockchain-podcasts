@@ -68,6 +68,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Unchained](https://unchainedpodcast.com/category/unchained/)
 * [Unconfirmed](https://unchainedpodcast.com/category/unconfirmed/)
 * [What Bitcoin Did](https://www.whatbitcoindid.com/)
+* [What Grinds My Gears](https://cms.megaphone.fm/channel/whatgrindsmygears)
 * [Wizard of Dapps](https://wizardofdapps.fm/)
 * [World Crypto Network](https://www.worldcryptonetwork.com/) ([audio feed](https://www.spreaker.com/show/3478703/episodes/feed))
 * [Wyre Talks](https://wyre-talks.simplecast.com/)
