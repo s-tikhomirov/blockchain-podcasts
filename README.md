@@ -49,6 +49,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Noded Bitcoin Podcast](https://noded.org/)
 * [Off the Chain](https://blockworksgroup.io/off-the-chain-podcast)
 * [POV Crypto Podcast](https://povcryptopod.libsyn.com/)
+* [Relay Chain](https://relaychain.fm)
 * [Proof of Love](https://letstalkbitcoin.com/blog/category/proofoflove)
 * [Road to Consensus](https://www.coindesk.com/podcasts)
 * [SAFE Crossroads](https://letstalkbitcoin.com/blog/category/safepodcast)
