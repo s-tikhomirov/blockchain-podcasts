@@ -61,6 +61,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [The Bitcoin Podcast](http://thebitcoinpodcast.com/)
 * [The Block Crunch Podcast](https://letstalkbitcoin.com/blog/category/the-blockcrunch)
 * [The Blockchain Show](https://www.theblockchainshow.com/)
+* [The Blockchain VC Podcast](https://www.federman.capital/theblockchainvcpodcast)
 * [The Crypto Cousins Podcast](https://cryptocousins.com/crypto-cousins-podcast/)
 * [The Crypto Show](https://thecryptoshow.com/)
 * [The Krypto Show](https://julianhosp.com/kryptoshow-podcast/)
