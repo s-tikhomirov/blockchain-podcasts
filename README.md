@@ -42,6 +42,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Grey Mirror](https://dci.mit.edu/greymirrorpodcast)
 * [Humans of Bitcoin](https://podcast.bitcoin.com/s3-Humans-of-Bitcoin)
 * [In Bitcoin We Trust](https://bitchapo.com/category/podcast/)
+* [Insureblocks](https://www.insureblocks.com/)
 * [Into the Ether](https://www.podbean.com/podcast-detail/mwb85-7c997/Into-the-Ether-Podcast)
 * [Ledger Status](https://ledgerstatus.com/topic/ledgercast/)
 * [Let's Talk Bitcoin!](https://letstalkbitcoin.com/blog/category/episodes)
