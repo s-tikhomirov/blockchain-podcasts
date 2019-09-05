@@ -72,6 +72,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [The Crypto Show](https://thecryptoshow.com/)
 * [The Krypto Show](https://julianhosp.com/kryptoshow-podcast/)
 * [The Lite Podcast](https://thelitepodcast.libsyn.com/)
+* [The Scoop Podcast](https://www.theblockcrypto.com/the-scoop-podcast/)
 * [The Tatiana Show](https://letstalkbitcoin.com/blog/category/tatianaepisodes)
 * [The Third Web](https://thethirdweb.net/)
 * [The Token Daily](https://blockworksgroup.io/the-token-daily-podcast)
