@@ -16,6 +16,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 ## English
 
 * [Analysis in Chains](https://www.analysisinchainspodcast.com/)
+* [Base Layer](https://blockworksgroup.io/base-layer-podcast)
 * [Binance Podcast](https://castbox.fm/channel/id2163161)
 * [Bitcoin & Co](https://bitcoincopodcast.com/) (some episodes in German)
 * [Bitcoin & Grill](https://cryptoandgrill.podbean.com)
@@ -73,8 +74,11 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [The Lite Podcast](https://thelitepodcast.libsyn.com/)
 * [The Tatiana Show](https://letstalkbitcoin.com/blog/category/tatianaepisodes)
 * [The Third Web](https://thethirdweb.net/)
+* [The Token Daily](https://blockworksgroup.io/the-token-daily-podcast)
 * [Unchained](https://unchainedpodcast.com/category/unchained/)
 * [Unconfirmed](https://unchainedpodcast.com/category/unconfirmed/)
+* [Unqualified Opinions](https://blockworksgroup.io/unqualified-opinions)
+* [Untold Stories](https://blockworksgroup.io/untold-stories-podcast)
 * [What Bitcoin Did](https://www.whatbitcoindid.com/)
 * [What Grinds My Gears](https://cms.megaphone.fm/channel/whatgrindsmygears)
 * [Wizard of Dapps](https://wizardofdapps.fm/)
