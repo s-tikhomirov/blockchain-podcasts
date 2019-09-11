@@ -104,7 +104,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 
 ## Dutch
 
-* [De Bitcoin Podcast](https://anchor.fm/debitcoinshow/)
+* [De Bitcoin Show](https://anchor.fm/debitcoinshow/)
 
 
 # Contribution guidelines
