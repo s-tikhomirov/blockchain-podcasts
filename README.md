@@ -102,6 +102,10 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Konsens & Nonsens](http://konsens-nonsens.de/)
 * [Kryptohelden](https://kryptohelden.de/)
 
+## Dutch
+
+* [De Bitcoin Podcast](https://anchor.fm/debitcoinshow/)
+
 
 # Contribution guidelines
 
