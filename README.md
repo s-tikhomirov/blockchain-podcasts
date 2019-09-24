@@ -28,6 +28,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Blockhash Podcast](https://www.blockhashpodcast.com/podcast)
 * [BlockCrunch](https://blockcrunch.libsyn.com)
 * [Chorus One](https://chorusone.libsyn.com/)
+* [Citizen Bitcoin](https://citizenbitcoin.world)
 * [Crypto 101](https://crypto101podcast.com/)
 * [Crypto and Blockchain Talk](http://cryptoandblockchaintalk.com/)
 * [Crypto Bobby](https://cryptobobby.com/)
