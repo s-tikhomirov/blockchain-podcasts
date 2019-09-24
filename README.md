@@ -54,6 +54,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Noded Bitcoin Podcast](https://noded.org/)
 * [NoSharding](https://solana.com/category/podcast/) (#NoSharding)
 * [Off the Chain](https://blockworksgroup.io/off-the-chain-podcast)
+* [On The Brink with Castle Island](https://podcasts.apple.com/us/podcast/on-the-brink-with-castle-island/id1480586463)
 * [POV Crypto Podcast](https://povcryptopod.libsyn.com/)
 * [Relay Chain](https://relaychain.fm)
 * [Proof of Love](https://letstalkbitcoin.com/blog/category/proofoflove)
