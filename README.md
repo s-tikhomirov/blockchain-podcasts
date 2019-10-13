@@ -27,6 +27,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Blockchain Innovation](https://blockchain.global/blockchain-innovation/)
 * [Blockchain Insider](https://bi.11fs.com/)
 * [Blockhash Podcast](https://www.blockhashpodcast.com/podcast)
+* [BlockChannel](https://medium.com/blockchannel)
 * [BlockCrunch](https://blockcrunch.libsyn.com)
 * [Chorus One](https://chorusone.libsyn.com/)
 * [Citizen Bitcoin](https://citizenbitcoin.world)
