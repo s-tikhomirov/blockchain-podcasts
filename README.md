@@ -111,6 +111,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 ## Dutch
 
 * [De Bitcoin Show](https://anchor.fm/debitcoinshow/)
+* [Satoshi Radio](https://satoshiradio.nl)
 
 
 # Contribution guidelines
