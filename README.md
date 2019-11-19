@@ -16,6 +16,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 ## English
 
 * [Analysis in Chains](https://www.analysisinchainspodcast.com/)
+* [Around the Coin](http://www.aroundthecoin.com)
 * [Base Layer](https://blockworksgroup.io/base-layer-podcast)
 * [Binance Podcast](https://castbox.fm/channel/id2163161)
 * [Bitcoin & Co](https://bitcoincopodcast.com/) (some episodes in German)
@@ -23,6 +24,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Bitcoin Magazine Podcast](https://letstalkbitcoin.com/blog/category/bitcoinmagazine)
 * [Bitcoin Radio](https://www.bitcoinradio.com)
 * [Bitcoin Rapid-Fire](https://anchor.fm/john-vallis/)
+* [Bitcoin Takeover](https://bitcoin-takeover.com/)
 * [Block Zero](https://blockzero.simplecast.com/)
 * [Blockchain Innovation](https://blockchain.global/blockchain-innovation/)
 * [Blockchain Insider](https://bi.11fs.com/)
