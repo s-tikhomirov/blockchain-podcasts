@@ -62,6 +62,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Let's Talk Bitcoin!](https://letstalkbitcoin.com/blog/category/episodes)
 * [Life in the Fast Chain](https://life-in-the-fast-chain.fireside.fm/)
 * [Lightning Junkies](https://anchor.fm/lightning-junkies)
+* [Money 3.0](https://www.abra.com/blog/category/podcasts/)
 * [Noded Bitcoin Podcast](https://noded.org/)
 * [NoSharding](https://solana.com/category/podcast/) (#NoSharding)
 * [Off the Chain](https://blockworksgroup.io/off-the-chain-podcast)
