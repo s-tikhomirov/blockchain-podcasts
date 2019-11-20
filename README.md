@@ -126,6 +126,9 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [De Bitcoin Show](https://anchor.fm/debitcoinshow/)
 * [Satoshi Radio](https://satoshiradio.nl)
 
+## Spanish
+
+* [Lunaticoin](https://lunaticoin.com/)
 
 # Contribution guidelines
 
