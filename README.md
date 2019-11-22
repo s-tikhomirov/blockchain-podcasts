@@ -69,6 +69,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [On The Brink with Castle Island](https://podcasts.apple.com/us/podcast/on-the-brink-with-castle-island/id1480586463)
 * [POV Crypto Podcast](https://povcryptopod.libsyn.com/)
 * [Proof of Love](https://letstalkbitcoin.com/blog/category/proofoflove)
+* [Reckless Review](http://www.recklessreview.horse/)
 * [Rekt Podcast](https://www.rektpodcast.com)
 * [Relay Chain](https://relaychain.fm)
 * [Road to Consensus](https://www.coindesk.com/podcasts)
