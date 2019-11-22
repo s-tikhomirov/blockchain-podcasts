@@ -84,6 +84,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [The Blockchain VC Podcast](https://www.federman.capital/theblockchainvcpodcast)
 * [The Crypto Cousins Podcast](https://cryptocousins.com/crypto-cousins-podcast/)
 * [The Crypto Show](https://thecryptoshow.com/)
+* [The Cryptonomy Podcast](https://thecryptoconomy.com/)
 * [The Krypto Show](https://julianhosp.com/kryptoshow-podcast/)
 * [The Lite Podcast](https://thelitepodcast.libsyn.com/)
 * [The Scoop Podcast](https://www.theblockcrypto.com/the-scoop-podcast/)
