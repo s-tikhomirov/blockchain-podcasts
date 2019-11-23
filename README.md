@@ -80,7 +80,6 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [The Bitcoin Game](https://letstalkbitcoin.com/blog/category/the-bitcoin-game)
 * [The Bitcoin Knowledge Podcast](https://www.bitcoin.kn/)
 * [The Bitcoin Podcast](http://thebitcoinpodcast.com/)
-* [The Block Crunch Podcast](https://letstalkbitcoin.com/blog/category/the-blockcrunch)
 * [The Blockchain Show](https://www.theblockchainshow.com/)
 * [The Blockchain VC Podcast](https://www.federman.capital/theblockchainvcpodcast)
 * [The Crypto Cousins Podcast](https://cryptocousins.com/crypto-cousins-podcast/)
