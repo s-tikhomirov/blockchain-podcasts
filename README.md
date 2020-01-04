@@ -44,6 +44,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Cypherpunk Bitstream](https://taz0.org/bitstream/)
 * [DappCon Podcast](https://dappcon.podbean.com/)
 * [Decentralize This!](https://blog.enigma.co/podcast/home)
+* [Decred in Depth](https://decredindepth.libsyn.com/)
 * [Decrypt Asia](https://decrypt.asia/)
 * [Distributed Dialogues](https://letstalkbitcoin.com/blog/category/distributed-dialogues)
 * [Do Your Own Research Podcast](https://dyorpodcast.com/)
