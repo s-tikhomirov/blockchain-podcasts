@@ -20,7 +20,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Around the Coin](http://www.aroundthecoin.com)
 * [Base Layer](https://blockworksgroup.io/base-layer-podcast)
 * [Binance Podcast](https://castbox.fm/channel/id2163161)
-* [Bitcoin & Co](https://bitcoincopodcast.com/) (some episodes in German)
+* [Bitcoin & Co (English)](https://bitcoinundco.com/en/)
 * [Bitcoin & Grill](https://cryptoandgrill.podbean.com)
 * [Bitcoin Magazine Podcast](https://letstalkbitcoin.com/blog/category/bitcoinmagazine)
 * [Bitcoin Radio](https://www.bitcoinradio.com)
@@ -125,7 +125,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 
 ## German
 
-* [Bitcoin & Co](https://bitcoincopodcast.com/) (some episodes in English)
+* [Bitcoin & Co (German)](https://bitcoinundco.com/de/)
 * [Bitcoin im Turm](http://bitcoin-turm.de/zencast/)
 * [BTC-Echo](https://www.btc-echo.de/podcast/)
 * [Honigdachs](https://coinspondent.de/honigdachs-der-bitcoin-podcast-aus-leipzig/)
