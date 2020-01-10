@@ -70,6 +70,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Lightning Junkies](https://anchor.fm/lightning-junkies)
 * [Market Disruptors](https://marketdisruptors.io/)
 * [Markets Daily](https://art19.com/shows/markets-daily)
+* [Messari Podcast](https://podbay.fm/podcast/1428326666)
 * [Money 3.0](https://www.abra.com/blog/category/podcasts/)
 * [Noded Bitcoin Podcast](https://noded.org/)
 * [NoSharding](https://solana.com/category/podcast/) (#NoSharding)
