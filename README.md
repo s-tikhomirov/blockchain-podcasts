@@ -53,6 +53,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Dose of Ether](https://thebitcoinpodcast.com/category/dose-of-ether/)
 * [Epicenter](https://epicenter.tv/)
 * [Ethereum Community Series](https://www.ethcs.org/)
+* [Ergo Cast](https://ergocast.io/)
 * [Flippening Podcast](https://blog.nomics.com/flippening/)
 * [Fork the Product](http://forktheproduct.com/)
 * [Fun with Bitcoin](https://anchor.fm/funwithbitcoin)
