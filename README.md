@@ -94,6 +94,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [The Blockchain Debate Podcast](https://blockdebate.buzzsprout.com/)
 * [The Blockchain Show](https://www.theblockchainshow.com/)
 * [The Blockchain VC Podcast](https://www.federman.capital/theblockchainvcpodcast)
+* [The Chaincode Podcast](https://podcast.chaincode.com/)
 * [The Coinist Podcast](https://www.venturecoinist.com/podcast)
 * [The Crypto Cousins Podcast](https://cryptocousins.com/crypto-cousins-podcast/)
 * [The Crypto Show](https://thecryptoshow.com/)
