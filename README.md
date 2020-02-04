@@ -29,6 +29,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Bitstocks Podcast](https://bitstocks.podbean.com/)
 * [Block Digest](https://castbox.fm/channel/id1192324)
 * [Block Zero](https://blockzero.simplecast.com/)
+* [Blockchain Dialogues](https://bcdialogues.com/)
 * [Blockchain Innovation](https://blockchain.global/blockchain-innovation/)
 * [Blockchain Insider](https://bi.11fs.com/)
 * [Blockhash Podcast](https://www.blockhashpodcast.com/podcast)
