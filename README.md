@@ -66,6 +66,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Insureblocks](https://www.insureblocks.com/)
 * [Into the Ether](https://www.podbean.com/podcast-detail/mwb85-7c997/Into-the-Ether-Podcast)
 * [Just the Headers](https://thebitcoinpodcast.com/category/justheaders/)
+* [Layer 1](https://anchor.fm/layer1pod)
 * [Ledger Status](https://ledgerstatus.com/topic/ledgercast/)
 * [Let's Talk Bitcoin!](https://letstalkbitcoin.com/blog/category/episodes)
 * [Life in the Fast Chain](https://life-in-the-fast-chain.fireside.fm/)
