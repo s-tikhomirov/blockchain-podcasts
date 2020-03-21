@@ -95,6 +95,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [The Bitcoin Game](https://letstalkbitcoin.com/blog/category/the-bitcoin-game)
 * [The Bitcoin Knowledge Podcast](https://www.bitcoin.kn/)
 * [The Bitcoin Podcast](http://thebitcoinpodcast.com/)
+* [The Block Experience](https://anchor.fm/theblockexperience)
 * [The Blockchain Debate Podcast](https://blockdebate.buzzsprout.com/)
 * [The Blockchain Show](https://www.theblockchainshow.com/)
 * [The Blockchain VC Podcast](https://www.federman.capital/theblockchainvcpodcast)
