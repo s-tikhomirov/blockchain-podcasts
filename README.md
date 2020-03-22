@@ -112,6 +112,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [The Tatiana Show](https://letstalkbitcoin.com/blog/category/tatianaepisodes)
 * [The Third Web](https://thethirdweb.net/)
 * [The Token Daily](https://blockworksgroup.io/the-token-daily-podcast)
+* [TF Blockchain Podcast](https://anchor.fm/tfblockchain/)
 * [Total Bitcoin](https://anchor.fm/keyvandavani) (ex. The Total Connector)
 * [Unchained](https://unchainedpodcast.com/category/unchained/)
 * [Unconfirmed](https://unchainedpodcast.com/category/unconfirmed/)
