@@ -120,6 +120,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Unqualified Opinions](https://blockworksgroup.io/unqualified-opinions)
 * [Unscrypted](https://aantonop.com/unscrypted/)
 * [Untold Stories](https://blockworksgroup.io/untold-stories-podcast)
+* [Vires in Numeris](https://www.bryer.io/podcast)
 * [What Bitcoin Did](https://www.whatbitcoindid.com/)
 * [What Grinds My Gears](https://cms.megaphone.fm/channel/whatgrindsmygears)
 * [What's Halvening](http://whatshalvening.btc.libsynpro.com/)
