@@ -22,6 +22,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Binance Podcast](https://castbox.fm/channel/id2163161)
 * [Bitcoin & Co (English)](https://bitcoinundco.com/en/)
 * [Bitcoin & Grill](https://cryptoandgrill.podbean.com)
+* [Bitcoin and...](https://www.stitcher.com/podcast/wwwstitchercompodcastdavidbennettbitcoinand/bitcoin-and)
 * [Bitcoin Magazine Podcast](https://letstalkbitcoin.com/blog/category/bitcoinmagazine)
 * [Bitcoin Radio](https://www.bitcoinradio.com)
 * [Bitcoin Rapid-Fire](https://anchor.fm/john-vallis/)
