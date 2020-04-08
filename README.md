@@ -107,6 +107,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [The Crypto Show](https://thecryptoshow.com/)
 * [The Cryptonomy Podcast](https://thecryptoconomy.com/)
 * [The DeFi Podcast](https://the-defi-podcast.simplecast.com/)
+* [The Honey Badger Diaries](https://anchor.fm/thehoneybadgerdiaries/)
 * [The Krypto Show](https://julianhosp.com/kryptoshow-podcast/)
 * [The Lite Podcast](https://thelitepodcast.libsyn.com/)
 * [The Scoop Podcast](https://www.theblockcrypto.com/the-scoop-podcast/)
