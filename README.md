@@ -15,6 +15,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 
 ## English
 
+* [A Bitcoin Micro Pod](https://anchor.fm/abitcoinmicropod/)
 * [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain/)
 * [Analysis in Chains](https://www.analysisinchainspodcast.com/)
 * [Around the Coin](http://www.aroundthecoin.com)
