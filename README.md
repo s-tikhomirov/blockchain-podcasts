@@ -26,6 +26,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Bitcoin and...](https://www.stitcher.com/podcast/wwwstitchercompodcastdavidbennettbitcoinand/bitcoin-and)
 * [Bitcoin and Markets](https://bitcoinandmarkets.com)
 * [Bitcoin Magazine Podcast](https://letstalkbitcoin.com/blog/category/bitcoinmagazine)
+* [Bitcoin OP_UXUI](http://bitcoinopuxui.com/)
 * [Bitcoin Radio](https://www.bitcoinradio.com)
 * [Bitcoin Rapid-Fire](https://anchor.fm/john-vallis/)
 * [Bitcoin Takeover](https://bitcoin-takeover.com/)
