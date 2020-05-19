@@ -19,6 +19,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Adventures in Blockchain](https://devchat.tv/adventures-in-blockchain/)
 * [Analysis in Chains](https://www.analysisinchainspodcast.com/)
 * [Around the Coin](http://www.aroundthecoin.com)
+* [Bankless](http://podcast.banklesshq.com/)
 * [Base Layer](https://blockworksgroup.io/base-layer-podcast)
 * [Binance Podcast](https://castbox.fm/channel/id2163161)
 * [Bitcoin & Co (English)](https://bitcoinundco.com/en/)
