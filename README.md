@@ -163,6 +163,10 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 
 * [Lunaticoin](https://lunaticoin.com/)
 
+## Portugese
+
+* [bitcoinheiros](https://anchor.fm/bitcoinheiros)
+
 # Contribution guidelines
 
 You are more than welcome to improve this list!
