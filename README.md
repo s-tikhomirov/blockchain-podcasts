@@ -123,6 +123,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [TF Blockchain Podcast](https://anchor.fm/tfblockchain/)
 * [Total Bitcoin](https://anchor.fm/keyvandavani) (ex. The Total Connector)
 * [Unchained](https://unchainedpodcast.com/category/unchained/)
+* [Uncommon Core](https://anchor.fm/hasu-research/)
 * [Unconfirmed](https://unchainedpodcast.com/category/unconfirmed/)
 * [Unhashed](https://www.unhashedpodcast.com)
 * [Unqualified Opinions](https://blockworksgroup.io/unqualified-opinions)
