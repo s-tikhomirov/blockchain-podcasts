@@ -62,6 +62,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Ergo Cast](https://ergocast.io/)
 * [Flippening Podcast](https://blog.nomics.com/flippening/)
 * [Fork the Product](http://forktheproduct.com/)
+* [Founders of Web 3](https://outlierventures.podbean.com/)
 * [Fun with Bitcoin](https://anchor.fm/funwithbitcoin)
 * [Guns'n'Bitcoin](https://gunsnbitcoin.com/podcast-home/)
 * [Grey Mirror](https://dci.mit.edu/greymirrorpodcast)
