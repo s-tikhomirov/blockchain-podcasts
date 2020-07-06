@@ -99,6 +99,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [State of Crypto](https://www.amun.com/resources/podcasts)
 * [Stephan Livera Podcast](https://stephanlivera.com/)
 * [Tales from the Crypt](https://talesfromthecrypt.libsyn.com/)
+* [Tangents from Coin Center](https://coincenter.simplecast.com/)
 * [Tantra Talks](https://anchor.fm/tantra-talks)
 * [The Bad Crypto Podcast](https://badcryptopodcast.com/)
 * [The Bitcoin Game](https://letstalkbitcoin.com/blog/category/the-bitcoin-game)
