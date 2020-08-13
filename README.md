@@ -48,6 +48,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Crypto and Blockchain Talk](http://cryptoandblockchaintalk.com/)
 * [Crypto Bobby](https://cryptobobby.com/)
 * [Crypto Conversation](https://bravenewcoin.com/insights/podcasts)
+* [Crypto Current](https://crypto-current.co/)
 * [Crypto Voices](https://cryptovoices.com/)
 * [Cypherpunk Bitstream](https://taz0.org/bitstream/)
 * [DappCon Podcast](https://dappcon.podbean.com/)
