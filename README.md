@@ -59,6 +59,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Distributed Dialogues](https://letstalkbitcoin.com/blog/category/distributed-dialogues)
 * [Do Your Own Research Podcast](https://dyorpodcast.com/)
 * [Dose of Ether](https://thebitcoinpodcast.com/category/dose-of-ether/)
+* [End of the Chain](https://endofthechain.com/)
 * [Epicenter](https://epicenter.tv/)
 * [Ethereum Community Series](https://www.ethcs.org/)
 * [Ergo Cast](https://ergocast.io/)
