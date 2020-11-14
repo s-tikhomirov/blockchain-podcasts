@@ -175,6 +175,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 ## Portugese
 
 * [bitcoinheiros](https://anchor.fm/bitcoinheiros)
+* [CryptoCafe](https://www.cryptocafe.pt/)
 
 # Contribution guidelines
 
