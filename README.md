@@ -88,6 +88,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Messari Podcast](https://podbay.fm/podcast/1428326666)
 * [Monero Talk](https://www.monerotalk.live/)
 * [Money 3.0](https://www.abra.com/blog/category/podcasts/)
+* [New Money Review](https://blubrry.com/newmoneyreview/70357374/digital-currencya-central-bankers-view)
 * [Noded Bitcoin Podcast](https://noded.org/)
 * [NoSharding](https://solana.com/category/podcast/) (#NoSharding)
 * [Off the Chain](https://blockworksgroup.io/off-the-chain-podcast)
