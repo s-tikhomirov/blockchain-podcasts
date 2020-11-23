@@ -93,6 +93,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Off the Chain](https://blockworksgroup.io/off-the-chain-podcast)
 * [On The Brink with Castle Island](https://podcasts.apple.com/us/podcast/on-the-brink-with-castle-island/id1480586463)
 * [Open Web Collective Podcast](https://www.openwebcollective.com/podcast)
+* [Orange Pill Podcast](https://orangepill.buzzsprout.com/)
 * [POV Crypto Podcast](https://povcryptopod.libsyn.com/)
 * [Proof of Love](https://letstalkbitcoin.com/blog/category/proofoflove)
 * [RCast](https://soundcloud.com/rchain-cooperative)
