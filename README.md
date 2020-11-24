@@ -27,6 +27,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Bitcoin & Grill](https://cryptoandgrill.podbean.com)
 * [Bitcoin and...](https://www.stitcher.com/podcast/wwwstitchercompodcastdavidbennettbitcoinand/bitcoin-and)
 * [Bitcoin and Markets](https://bitcoinandmarkets.com)
+* [Bit Buy Bit](https://www.bit-buy-bit.com/)
 * [Bitcoin Fixes This](https://anchor.fm/jimmysong/)
 * [Bitcoin Magazine Podcast](https://letstalkbitcoin.com/blog/category/bitcoinmagazine)
 * [Bitcoin OP_UXUI](http://bitcoinopuxui.com/)
