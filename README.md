@@ -180,6 +180,9 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [bitcoinheiros](https://anchor.fm/bitcoinheiros)
 * [CryptoCafe](https://www.cryptocafe.pt/)
 
+## Persian
+* [Shir Ya Khat (شیر یا خط)](https://shiryakhat.net/)
+
 # Contribution guidelines
 
 You are more than welcome to improve this list!
