@@ -101,7 +101,6 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [RCast](https://soundcloud.com/rchain-cooperative)
 * [Reckless Review](http://www.recklessreview.horse/)
 * [Rekt Podcast](https://www.rektpodcast.com)
-* [Relai Bitcoin Session](https://relai.podbean.com/)
 * [Relay Chain](https://relaychain.fm)
 * [Road to Consensus](https://www.coindesk.com/podcasts)
 * [SAFE Crossroads](https://letstalkbitcoin.com/blog/category/safepodcast)
@@ -166,6 +165,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Honigdachs](https://coinspondent.de/honigdachs-der-bitcoin-podcast-aus-leipzig/)
 * [Konsens & Nonsens](http://konsens-nonsens.de/)
 * [Kryptohelden](https://kryptohelden.de/)
+* [Relai Bitcoin Session](https://relai.podbean.com/)
 
 ## Dutch
 
