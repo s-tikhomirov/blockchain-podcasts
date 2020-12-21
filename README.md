@@ -71,6 +71,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Fun with Bitcoin](https://anchor.fm/funwithbitcoin)
 * [Guns'n'Bitcoin](https://gunsnbitcoin.com/podcast-home/)
 * [Grey Mirror](https://dci.mit.edu/greymirrorpodcast)
+* [Ground Floor Consensus](https://podcasts.apple.com/sg/podcast/ground-floor-consensus/id1544469983)
 * [Hashing It Out](https://thebitcoinpodcast.com/category/hashitout/)
 * [Humans of Bitcoin](https://podcast.bitcoin.com/s3-Humans-of-Bitcoin)
 * [In Bitcoin We Trust](https://bitchapo.com/category/podcast/)
