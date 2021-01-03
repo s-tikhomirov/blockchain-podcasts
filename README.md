@@ -161,6 +161,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 
 * [Bitcoin & Co (German)](https://bitcoinundco.com/de/)
 * [Bitcoin im Turm](http://bitcoin-turm.de/zencast/)
+* [Bitcoin Verstehen](https://bitcoinverstehen.info/podcast/)
 * [BTC-Echo](https://www.btc-echo.de/podcast/)
 * [Einundzwanzig](https://anchor.fm/einundzwanzig)
 * [Honigdachs](https://coinspondent.de/honigdachs-der-bitcoin-podcast-aus-leipzig/)
