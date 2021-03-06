@@ -191,6 +191,9 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 ## Persian
 * [Shir Ya Khat (شیر یا خط)](https://shiryakhat.net/)
 
+## Swedish
+* [Bitcoinpodden](https://podcasts.apple.com/se/podcast/bitcoinpodden/id1537513764)
+
 # Contribution guidelines
 
 You are more than welcome to improve this list!
