@@ -168,6 +168,8 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Bitcoin im Turm](http://bitcoin-turm.de/zencast/)
 * [Bitcoin und Scifi](https://topick.app/BitcoinUndScifi/podcast/)
 * [Bitcoin Verstehen](https://bitcoinverstehen.info/podcast/)
+* [Bitcoin, Bier & Bernadette](https://anchor.fm/marc13)
+* [Bitcoin, Fiat & Rock'n'roll](https://bfrr.podigee.io/)
 * [BTC-Echo](https://www.btc-echo.de/podcast/)
 * [Einundzwanzig](https://anchor.fm/einundzwanzig)
 * [Honigdachs](https://coinspondent.de/honigdachs-der-bitcoin-podcast-aus-leipzig/)
