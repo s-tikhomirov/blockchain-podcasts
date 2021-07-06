@@ -47,6 +47,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Chain Reaction](https://fiftyonepercent.podbean.com)
 * [Chorus One](https://chorusone.libsyn.com/)
 * [Citizen Bitcoin](https://citizenbitcoin.world)
+* [Closing the Loop](https://podcastindex.org/podcast/4058673)
 * [CoinGecko Podcast](https://podcast.coingecko.com/)
 * [Crypto 101](https://crypto101podcast.com/)
 * [Crypto and Blockchain Talk](http://cryptoandblockchaintalk.com/)
