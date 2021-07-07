@@ -69,6 +69,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Ethereum Community Series](https://www.ethcs.org/)
 * [Ergo Cast](https://ergocast.io/)
 * [Flippening Podcast](https://blog.nomics.com/flippening/)
+* [Follow the Orange Rabbit](https://anchor.fm/orange-rabbit/)
 * [Fork the Product](http://forktheproduct.com/)
 * [Founders of Web 3](https://outlierventures.podbean.com/)
 * [Fun with Bitcoin](https://anchor.fm/funwithbitcoin)
