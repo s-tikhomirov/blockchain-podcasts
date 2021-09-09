@@ -44,6 +44,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Blockhash Podcast](https://www.blockhashpodcast.com/podcast)
 * [BlockChannel](https://medium.com/blockchannel)
 * [BlockCrunch](https://blockcrunch.libsyn.com)
+* [Blockstream Talk](https://blockstreamtalk.com/)
 * [Chain Reaction](https://fiftyonepercent.podbean.com)
 * [Chorus One](https://chorusone.libsyn.com/)
 * [Citizen Bitcoin](https://citizenbitcoin.world)
