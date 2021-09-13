@@ -81,6 +81,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Humans of Bitcoin](https://podcast.bitcoin.com/s3-Humans-of-Bitcoin)
 * [In Bitcoin We Trust](https://bitchapo.com/category/podcast/)
 * [Insureblocks](https://www.insureblocks.com/)
+* [Into the Bytecode](https://share.transistor.fm/s/0f9aa81e)
 * [Into the Ether](https://www.podbean.com/podcast-detail/mwb85-7c997/Into-the-Ether-Podcast)
 * [Just the Headers](https://thebitcoinpodcast.com/category/justheaders/)
 * [Keyword: Crypto](https://overcast.fm/itunes1447195252/keyword-crypto)
