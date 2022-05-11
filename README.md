@@ -182,6 +182,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Konsens & Nonsens](http://konsens-nonsens.de/)
 * [Kryptohelden](https://kryptohelden.de/)
 * [Magic Future Money](https://magicfuturemoney.de/)
+* [Nodesignal](https://nodesignal.space/)
 * [Relai Bitcoin Session](https://relai.podbean.com/)
 
 ## Dutch
