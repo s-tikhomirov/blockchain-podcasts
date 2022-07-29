@@ -45,6 +45,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [BlockChannel](https://medium.com/blockchannel)
 * [BlockCrunch](https://blockcrunch.libsyn.com)
 * [Blockstream Talk](https://blockstreamtalk.com/)
+* [Builders in Bitcoin](https://bitcointv.com/c/buildersinbitcoin/videos)
 * [Chain Reaction](https://fiftyonepercent.podbean.com)
 * [Chorus One](https://chorusone.libsyn.com/)
 * [Citadel Dispatch](https://citadeldispatch.com/)
