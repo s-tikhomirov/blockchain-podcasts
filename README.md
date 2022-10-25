@@ -34,6 +34,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Bitcoin Radio](https://www.bitcoinradio.com)
 * [Bitcoin Rapid-Fire](https://anchor.fm/john-vallis/)
 * [Bitcoin Rehab](https://anchor.fm/bitcoinrehab)
+* [Bitcoin Review](https://bitcoin.review/)
 * [Bitcoin Takeover](https://bitcoin-takeover.com/)
 * [Bitstocks Podcast](https://bitstocks.podbean.com/)
 * [Block Digest](https://castbox.fm/channel/id1192324)
