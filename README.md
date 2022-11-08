@@ -54,6 +54,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Citizen Bitcoin](https://citizenbitcoin.world)
 * [Closing the Loop](https://podcastindex.org/podcast/4058673)
 * [CoinGecko Podcast](https://podcast.coingecko.com/)
+* [Compass Mining Podcast](https://compassmining.io/education/tag/podcast)
 * [Crypto 101](https://crypto101podcast.com/)
 * [Crypto and Blockchain Talk](http://cryptoandblockchaintalk.com/)
 * [Crypto Bobby](https://cryptobobby.com/)
