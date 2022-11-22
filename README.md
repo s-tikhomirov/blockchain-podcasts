@@ -85,24 +85,16 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 
 ## German
 
-* [Bitcoin & Co (German)](https://bitcoinundco.com/de/)
-* [Bitcoin im Turm](http://bitcoin-turm.de/zencast/)
-* [Bitcoin und Scifi](https://topick.app/BitcoinUndScifi/podcast/)
 * [Bitcoin Verstehen](https://bitcoinverstehen.info/podcast/)
-* [Bitcoin, Bier & Bernadette](https://anchor.fm/marc13)
 * [Bitcoin, Fiat & Rock'n'roll](https://bfrr.podigee.io/)
 * [BTC-Echo](https://www.btc-echo.de/podcast/)
 * [Einundzwanzig](https://anchor.fm/einundzwanzig)
 * [Honigdachs](https://coinspondent.de/honigdachs-der-bitcoin-podcast-aus-leipzig/)
-* [Konsens & Nonsens](http://konsens-nonsens.de/)
 * [Kryptohelden](https://kryptohelden.de/)
-* [Magic Future Money](https://magicfuturemoney.de/)
 * [Nodesignal](https://nodesignal.space/)
-* [Relai Bitcoin Session](https://relai.podbean.com/)
 
 ## Dutch
 
-* [De Bitcoin Show](https://anchor.fm/debitcoinshow/)
 * [Satoshi Radio](https://satoshiradio.nl)
 
 ## Spanish
