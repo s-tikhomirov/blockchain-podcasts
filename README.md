@@ -63,6 +63,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Tales from the Crypt](https://talesfromthecrypt.libsyn.com/)
 * [Tangents from Coin Center](https://coincenter.simplecast.com/)
 * [The Bad Crypto Podcast](https://badcryptopodcast.com/)
+* [https://www.blockchain.com/podcast](The Blockchain.com Podcast)
 * [The Blockchain Debate Podcast](https://blockdebate.buzzsprout.com/)
 * [The Breakdown](https://nlwcrypto.libsyn.com/)
 * [The Chaincode Podcast](https://podcast.chaincode.com/)
