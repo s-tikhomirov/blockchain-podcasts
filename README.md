@@ -46,6 +46,7 @@ The podcasts are sorted by language. Inside each language, they are sorted alpha
 * [Crypto Conversation](https://bravenewcoin.com/insights/podcasts)
 * [Crypto Current](https://crypto-current.co/)
 * [Epicenter](https://epicenter.tv/)
+* [The Interop](https://www.youtube.com/theinterop)
 * [The Metaverse Podcast](https://outlierventures.podbean.com/)
 * [Fun with Bitcoin](https://anchor.fm/funwithbitcoin)
 * [Bitcoin.com News Interviews](https://podcast.bitcoin.com/s3-Humans-of-Bitcoin)
